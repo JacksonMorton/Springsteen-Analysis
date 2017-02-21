@@ -1,11 +1,10 @@
 # Springsteen-Analysis
 
-This project in analysis of Springsteen songwriting over time. 
+This project in analysis of Springsteen songwriting over time. I collected lyrics data from brucespringsteen.net and Wikipedia using a combination of a data scraper and manual labor.
 
-It's divided into two sections: 
-    1. Structural changes over time
-    2. Content changes over time
-    
+My analysis divided into two sections: 
+    (1) Structural changes over time and
+    (2) Content changes over time
 Additionally, a Python notebook is dedicated to cleaning and refining the database used in this analysis.
 
 I made this blog post to explain my findings: https://medium.com/jackson-morton/bruce-springsteen-lyrics-analysis-1365f95f3c62#.ye29xnxn4
