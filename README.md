@@ -1,6 +1,6 @@
 # Springsteen-Analysis
 
-This project in analysis of Springsteen songwriting over time. I collected lyrics data from brucespringsteen.net and Wikipedia using a combination of a data scraper and manual labor.
+This project is analysis of Springsteen songwriting over time. I collected lyrics data from brucespringsteen.net and Wikipedia using a combination of a data scraper and manual labor.
 
 My analysis divided into two sections: 
     (1) structural changes over time and
